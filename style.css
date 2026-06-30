@@ -1,0 +1,108 @@
+body {
+margin:0;
+font-family: Arial, sans-serif;
+background: url('https://images.unsplash.com/photo-1589829545856-d10d557cf95f') no-repeat center center/cover;
+color:white;
+}
+
+.hero {
+text-align:center;
+padding:120px 20px;
+background: rgba(0,0,50,0.7);
+}
+
+h1 {
+font-size:50px;
+margin:0;
+}
+
+p {
+font-size:18px;
+}
+
+.btn {
+display:inline-block;
+margin:10px;
+padding:12px 25px;
+background:#1e3a8a;
+color:white;
+text-decoration:none;
+border-radius:8px;
+}
+
+.btn-outline {
+display:inline-block;
+margin:10px;
+padding:12px 25px;
+border:2px solid white;
+color:white;
+text-decoration:none;
+border-radius:8px;
+}
+
+.section {
+padding:50px;
+text-align:center;
+background:rgba(0,0,0,0.6);
+}
+
+.dark {
+background:rgba(0,0,50,0.6);
+}
+
+.header {
+text-align:center;
+padding:60px;
+background:rgba(0,0,50,0.8);
+}
+
+.grid {
+display:grid;
+grid-template-columns:repeat(2,1fr);
+gap:20px;
+padding:40px;
+}
+
+.card {
+background:rgba(255,255,255,0.1);
+padding:20px;
+border-radius:10px;
+text-align:center;
+backdrop-filter: blur(10px);
+}
+
+.form {
+display:flex;
+flex-direction:column;
+width:300px;
+margin:auto;
+padding:40px;
+}
+
+input, textarea {
+margin:10px 0;
+padding:10px;
+border:none;
+border-radius:5px;
+}
+
+button {
+padding:12px;
+background:#1e3a8a;
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+.whatsapp {
+position:fixed;
+bottom:20px;
+right:20px;
+background:green;
+color:white;
+padding:15px;
+border-radius:50px;
+text-decoration:none;
+font-weight:bold;
+}
