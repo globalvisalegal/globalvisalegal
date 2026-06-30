@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>GlobalVisaLegal</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="hero">
+  <h1>GlobalVisaLegal</h1>
+  <p>Tu visa, residencia o nacionalidad en cualquier país del mundo</p>
+
+  <a class="btn" href="contact.html">Evaluar mi caso</a>
+  <a class="btn-outline" href="services.html">Ver servicios</a>
+</div>
+
+<div class="section">
+  <h2>¿Qué hacemos?</h2>
+  <p>Asesoría legal migratoria profesional para procesos de visa, residencia y ciudadanía internacional.</p>
+</div>
+
+<div class="section dark">
+  <h2>Especialistas en inmigración</h2>
+  <p>Casos en múltiples países con estrategias legales personalizadas.</p>
+</div>
+
+<a class="whatsapp" href="https://wa.me/1234567890" target="_blank">💬 WhatsApp</a>
+
+</body>
+</html>
